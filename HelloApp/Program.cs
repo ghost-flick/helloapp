@@ -16,6 +16,8 @@ namespace HelloApp
         static void Main()
         {
             Console.WriteLine("Hello everyone!");
+            GreetBlack();
+            GreetWhite();
         }
         
     }
