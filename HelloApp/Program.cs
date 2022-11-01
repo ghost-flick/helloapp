@@ -10,7 +10,7 @@ namespace HelloApp
         }
         static void Main()
         {
-            Console.WriteLine("Hello, world!");
+            Console.WriteLine("Hello everyone!");
         }
     }
 }
